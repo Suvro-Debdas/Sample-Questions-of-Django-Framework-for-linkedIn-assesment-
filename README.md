@@ -1,1 +1,1 @@
-# Sample-Questions-of-Djang-Framework-for-linkedIn-assesment-
+# Sample-Questions-of-Django-Framework-for-linkedIn-assesment
